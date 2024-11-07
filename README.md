@@ -22,3 +22,6 @@ Opciones avanzadas de tuning para una personalización más detallada
 Ranking global de puntuaciones
 Clima dinámico que afecte la jugabilidad
 
+
+Desarollado Por: Miguel Angel Vallejo de Bergia y Javier Viseras Comin
+
