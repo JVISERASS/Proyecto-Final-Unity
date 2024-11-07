@@ -2,7 +2,7 @@
 
 # Proyecto Final - Juego de Carreras Pacorrer
 
-![Banner Pacorrer](/workspaces/Proyecto-Final-Unity/PACORRER.png)
+![Banner Pacorrer](PACORRER.png)
 
 Bienvenido al proyecto final de nuestro juego de carreras. Este juego es mucho más que una simple competición de velocidad: aquí, los jugadores pueden experimentar una carrera totalmente inmersiva, personalizar sus vehículos, enfrentarse a una IA desafiante y realizar un seguimiento detallado de su rendimiento. A continuación, te presentamos un vistazo completo de las características, objetivos y narrativa del juego desde la perspectiva de los jugadores y de los desarrolladores.
 
