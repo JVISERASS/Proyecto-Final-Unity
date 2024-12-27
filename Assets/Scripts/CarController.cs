@@ -24,6 +24,8 @@ public class CarController : MonoBehaviour
 
     public float turnSensitivity = 1.0f;
     public float maxSteerAngle = 30.0f;
+    public float wheelFriction = 2.0f;
+
 
     public Vector3 _centerOfMass;
 
@@ -31,6 +33,7 @@ public class CarController : MonoBehaviour
 
     float moveInput;
     float steerInput;
+    float currentSpeed;
 
     private Rigidbody carRb;
 
@@ -45,6 +48,8 @@ public class CarController : MonoBehaviour
         GetInputs();
         AnimationWheels();
         WheelEffects();
+        currentSpeed = carRb.velocity.magnitude;
+        turnSensitivity = 1 - (currentSpeed / 50); // para ajustar la sensitivity, interesa que sea menor a mas velocidad
     }
 
     void LateUpdate()
@@ -79,6 +84,9 @@ public class CarController : MonoBehaviour
             {
                 var _steerAngle = steerInput * turnSensitivity * maxSteerAngle;
                 wheel.wheelCollider.steerAngle = Mathf.Lerp(wheel.wheelCollider.steerAngle, _steerAngle, turnSensitivity);
+                WheelFrictionCurve friction = wheel.wheelCollider.sidewaysFriction;
+                friction.stiffness = wheelFriction; 
+                wheel.wheelCollider.sidewaysFriction = friction;
             }
             
         }
