@@ -49,7 +49,7 @@ public class CarController : MonoBehaviour
         AnimationWheels();
         WheelEffects();
         currentSpeed = carRb.velocity.magnitude;
-        turnSensitivity = 1 - (currentSpeed / 50); // para ajustar la sensitivity, interesa que sea menor a mas velocidad
+        turnSensitivity = 1 - (currentSpeed / 55); // para ajustar la sensitivity, interesa que sea menor a mas velocidad
     }
 
     void LateUpdate()

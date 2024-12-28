@@ -355,6 +355,9 @@
 "Assets/Scripts/CameraFollow.cs"
 "Assets/Scripts/CarController.cs"
 "Assets/Scripts/CarSounds.cs"
+"Assets/Scripts/HalfPointTrigger.cs"
+"Assets/Scripts/LapComplete.cs"
+"Assets/Scripts/LapTimeManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+

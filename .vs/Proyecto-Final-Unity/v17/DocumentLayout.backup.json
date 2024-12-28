@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|c:\\users\\mange\\source\\repos\\proyecto-final-unity\\assets\\scripts\\laptimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laptimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|c:\\users\\mange\\source\\repos\\proyecto-final-unity\\assets\\scripts\\carsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\halfpointtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\halfpointtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,8 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LapTimeManager.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\LapTimeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LapTimeManager.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\LapTimeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LapTimeManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:29:46.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HalfPointTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\HalfPointTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HalfPointTrigger.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\HalfPointTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HalfPointTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:14:10.496Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,14 +65,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CarSounds.cs",
               "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CarSounds.cs",
               "RelativeToolTip": "Assets\\Scripts\\CarSounds.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T17:14:05.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CameraFollow.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CameraFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
@@ -51,16 +84,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CarController.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CarController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CarController.cs",
               "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CarController.cs",
               "RelativeToolTip": "Assets\\Scripts\\CarController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAuwFcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:07:17.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T18:07:17.226Z"
             }
           ]
         }
