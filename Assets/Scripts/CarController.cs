@@ -25,6 +25,7 @@ public class CarController : MonoBehaviour
     public float turnSensitivity = 1.0f;
     public float maxSteerAngle = 30.0f;
     public float wheelFriction = 2.0f;
+    public float steerFactor = 50.0f;
 
 
     public Vector3 _centerOfMass;
@@ -49,7 +50,7 @@ public class CarController : MonoBehaviour
         AnimationWheels();
         WheelEffects();
         currentSpeed = carRb.velocity.magnitude;
-        turnSensitivity = 1 - (currentSpeed / 55); // para ajustar la sensitivity, interesa que sea menor a mas velocidad
+        turnSensitivity = 1 - (currentSpeed / steerFactor); // para ajustar la sensitivity, interesa que sea menor a mas velocidad
     }
 
     void LateUpdate()
