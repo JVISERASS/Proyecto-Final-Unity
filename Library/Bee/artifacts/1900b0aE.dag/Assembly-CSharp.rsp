@@ -360,9 +360,11 @@
 "Assets/Scripts/CarSounds.cs"
 "Assets/Scripts/Countdown.cs"
 "Assets/Scripts/DreamCar01Track.cs"
+"Assets/Scripts/FinishRotate.cs"
 "Assets/Scripts/HalfPointTrigger.cs"
 "Assets/Scripts/LapComplete.cs"
 "Assets/Scripts/LapTimeManager.cs"
+"Assets/Scripts/LoadLapTime.cs"
 -langversion:9.0
 /deterministic
 /optimize+

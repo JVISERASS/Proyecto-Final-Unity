@@ -62,8 +62,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\LapTimeManager.cs" />
     <Compile Include="Assets\Scripts\CarSounds.cs" />
+    <Compile Include="Assets\Scripts\LoadLapTime.cs" />
     <Compile Include="Assets\Scripts\CarController.cs" />
     <Compile Include="Assets\Scripts\LapComplete.cs" />
+    <Compile Include="Assets\Scripts\FinishRotate.cs" />
     <Compile Include="Assets\Scripts\Countdown.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\HalfPointTrigger.cs" />
@@ -88,6 +90,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Polyeler\Simple Retro Car\README.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Free Skyboxes - Space\Readme.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />

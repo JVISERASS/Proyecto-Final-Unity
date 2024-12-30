@@ -14,9 +14,12 @@ public class LapTimeManager : MonoBehaviour
     public TMP_Text SecondBox;
     public TMP_Text MilliBox;
 
+    public static float RawTime;
+
     void Update()
     {
         MilliCount += Time.deltaTime * 10;
+        RawTime += Time.deltaTime;
         MilliDisplay = MilliCount.ToString("F0");
 
         // Aquí verifica si los campos están asignados.
