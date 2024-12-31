@@ -4,15 +4,10 @@ using UnityEngine;
 
 public class FinishRotate : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public float rotationSpeed = 0.1f; // Variable to control rotation speed
 
-    // Update is called once per frame
     void Update()
     {
-        
+        transform.Rotate(0, rotationSpeed, 0, Space.World);
     }
 }

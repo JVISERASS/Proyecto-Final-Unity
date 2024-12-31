@@ -354,6 +354,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/ButtonOption.cs"
 "Assets/Scripts/CameraFollow.cs"
 "Assets/Scripts/CarControlActive.cs"
 "Assets/Scripts/CarController.cs"
@@ -365,6 +366,7 @@
 "Assets/Scripts/LapComplete.cs"
 "Assets/Scripts/LapTimeManager.cs"
 "Assets/Scripts/LoadLapTime.cs"
+"Assets/Scripts/RaceFinish.cs"
 -langversion:9.0
 /deterministic
 /optimize+

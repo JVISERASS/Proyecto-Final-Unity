@@ -68,7 +68,9 @@
     <Compile Include="Assets\Scripts\FinishRotate.cs" />
     <Compile Include="Assets\Scripts\Countdown.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\ButtonOption.cs" />
     <Compile Include="Assets\Scripts\HalfPointTrigger.cs" />
+    <Compile Include="Assets\Scripts\RaceFinish.cs" />
     <Compile Include="Assets\Scripts\DreamCar01Track.cs" />
     <Compile Include="Assets\Scripts\CarControlActive.cs" />
   </ItemGroup>
