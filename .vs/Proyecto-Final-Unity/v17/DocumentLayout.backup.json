@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|c:\\users\\mange\\source\\repos\\proyecto-final-unity\\assets\\scripts\\lapcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lapcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\modeselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modeselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|c:\\users\\mange\\source\\repos\\proyecto-final-unity\\assets\\scripts\\modetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\racefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\racefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|c:\\users\\mange\\source\\repos\\proyecto-final-unity\\assets\\scripts\\loadlaptime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadlaptime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\modescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\carcontrolactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontrolactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\DreamCar02Track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DreamCar02Track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\dreamcar01track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dreamcar01track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\creditfinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creditfinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\buttonoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\laptimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laptimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\lapcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lapcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,22 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D1592765-5C83-1821-A7EE-DB49C8F8831C}|Assembly-CSharp-firstpass.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\standard assets\\vehicles\\car\\scripts\\carusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1592765-5C83-1821-A7EE-DB49C8F8831C}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\vehicles\\car\\scripts\\carusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\carcontrolactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontrolactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\laptimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laptimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\loadlaptime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadlaptime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\scripts\\dreamcar01track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21037C65-46BF-74B5-B5F7-95769FE6B5BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dreamcar01track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1592765-5C83-1821-A7EE-DB49C8F8831C}|Assembly-CSharp-firstpass.csproj|C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\assets\\standard assets\\vehicles\\car\\scripts\\caraicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,35 +102,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
-              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
-              "RelativeToolTip": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ModeTime.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ModeTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ModeTime.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ModeTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ModeTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T11:37:08.402Z"
+              "WhenOpened": "2025-01-01T20:38:39.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "ModeScore.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ModeScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ModeScore.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ModeScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ModeScore.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:45:04.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DreamCar02Track.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\DreamCar02Track.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DreamCar02Track.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\DreamCar02Track.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DreamCar02Track.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:12:46.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreditFinish.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CreditFinish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreditFinish.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CreditFinish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreditFinish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:59:31.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ButtonOption.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ButtonOption.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonOption.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ButtonOption.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonOption.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:03:18.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RaceFinish.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\RaceFinish.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RaceFinish.cs",
               "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\RaceFinish.cs",
               "RelativeToolTip": "Assets\\Scripts\\RaceFinish.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T11:33:26.084Z"
+              "WhenOpened": "2024-12-31T11:33:26.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "CarUserControl.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarUserControl.cs",
               "RelativeDocumentMoniker": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarUserControl.cs",
@@ -114,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Readme.txt.txt",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\CarAI\\Readme.txt.txt",
               "RelativeDocumentMoniker": "Assets\\CarAI\\Readme.txt.txt",
@@ -125,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "CarControlActive.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CarControlActive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CarControlActive.cs",
@@ -137,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Countdown.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\Countdown.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Countdown.cs",
@@ -149,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "LapComplete.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\LapComplete.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LapComplete.cs",
@@ -157,12 +234,49 @@
               "RelativeToolTip": "Assets\\Scripts\\LapComplete.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T12:50:20.632Z",
+              "WhenOpened": "2024-12-28T12:50:20.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModeSelect.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ModeSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ModeSelect.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ModeSelect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ModeSelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:25:03.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "ScoreScript.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ScoreScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreScript.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\ScoreScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:59:12.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadLapTime.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\LoadLapTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadLapTime.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\LoadLapTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadLapTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:49:13.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LapTimeManager.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\LapTimeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LapTimeManager.cs",
@@ -174,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "HalfPointTrigger.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\HalfPointTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HalfPointTrigger.cs",
@@ -186,7 +300,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "DreamCar01Track.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\DreamCar01Track.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DreamCar01Track.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\DreamCar01Track.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DreamCar01Track.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:33:03.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:37:08.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CarController.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CarController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CarController.cs",
@@ -198,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "FinishRotate.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\FinishRotate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FinishRotate.cs",
@@ -210,31 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DreamCar01Track.cs",
-              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\DreamCar01Track.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DreamCar01Track.cs",
-              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\DreamCar01Track.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DreamCar01Track.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T20:33:03.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoadLapTime.cs",
-              "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\LoadLapTime.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadLapTime.cs",
-              "ToolTip": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\LoadLapTime.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LoadLapTime.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T16:49:13.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "CarSounds.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CarSounds.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CarSounds.cs",
@@ -246,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "CameraFollow.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Scripts\\CameraFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
@@ -258,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "CarAIControl.cs",
               "DocumentMoniker": "C:\\Users\\mange\\source\\repos\\Proyecto-Final-Unity\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarAIControl.cs",
               "RelativeDocumentMoniker": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarAIControl.cs",
