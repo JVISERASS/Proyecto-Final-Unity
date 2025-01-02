@@ -6,7 +6,7 @@ public class ButtonOption : MonoBehaviour
 {
     //public void PlayGame()
     //{
-       // SceneManager.LoadScene(2);
+    // SceneManager.LoadScene(2);
     //}
 
     public void PlayGame()
@@ -16,6 +16,7 @@ public class ButtonOption : MonoBehaviour
 
     public void MainMenu()
     {
+        ModeTime.isTimeMode = false; // asegurarse
         SceneManager.LoadScene(0);
     }
 
@@ -36,5 +37,16 @@ public class ButtonOption : MonoBehaviour
         SceneManager.LoadScene(4);
     }
 
- 
+    // Método para realizar el reset
+    public void MasterReset()
+    {
+        PlayerPrefs.DeleteAll(); // Elimina todos los PlayerPrefs
+        PlayerPrefs.Save(); // Asegura que los cambios se guarden
+    }
+
+    public void CloseGame()
+    {
+       
+        Application.Quit();
+    }
 }

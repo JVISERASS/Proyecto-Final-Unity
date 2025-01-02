@@ -6,6 +6,8 @@ using TMPro; // Importa la biblioteca para TextMeshPro
 public class ModeTime : MonoBehaviour
 {
     public int ModeSelection;
+    public GameObject position;
+    public GameObject lapCounter;
 
 
     public GameObject AICar;
@@ -20,6 +22,8 @@ public class ModeTime : MonoBehaviour
 
         if (ModeSelection == 2)
         {
+            lapCounter.SetActive(false);
+            position.SetActive(false);
             isTimeMode = true;
             AICar.SetActive(false);
         }

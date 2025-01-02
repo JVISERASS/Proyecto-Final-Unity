@@ -14,13 +14,14 @@ public class ModeScore : MonoBehaviour
 
     public TextMeshProUGUI ScoreValue;
     public GameObject ScoreObjects;
-
+    public GameObject position;
     void Start()
     {
         ModeSelection = ModeSelect.RaceMode;
 
         if (ModeSelection == 1)
         {
+            position.SetActive(false);
             RaceUI.SetActive(false);
             ScoreUI.SetActive(true);
             AICar.SetActive(false);

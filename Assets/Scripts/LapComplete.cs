@@ -19,6 +19,10 @@ public class LapComplete : MonoBehaviour
 
     public GameObject RaceFinish;
 
+    public string MinSave;
+    public string SecSave;
+    public string MilliSave;
+    public string RawTimeLoad;
 
     private void Update()
     {
@@ -28,53 +32,58 @@ public class LapComplete : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter()
+    void OnTriggerEnter(Collider collision)
     {
-        LapsDone += 1;
-        RawTime = PlayerPrefs.GetFloat("RawTime");
-        if (LapTimeManager.RawTime <= RawTime)
+        // Verifica si el objeto que activó el trigger tiene la etiqueta "Player"
+        if (collision.gameObject.tag == "Untagged")
         {
+            LapsDone += 1;
+            RawTime = PlayerPrefs.GetFloat(RawTimeLoad, 0); // Valor predeterminado 0 si no existe
 
-            // Actualiza el texto de los segundos con formato adecuado
-            if (LapTimeManager.SecondCount <= 9)
+            if (LapTimeManager.RawTime <= RawTime || RawTime == 0)
             {
-                SecondDisplay.text = "0" + LapTimeManager.SecondCount + ".";
-            }
-            else
-            {
-                SecondDisplay.text = "" + LapTimeManager.SecondCount + ".";
+                // Actualiza el texto de los segundos con formato adecuado
+                if (LapTimeManager.SecondCount <= 9)
+                {
+                    SecondDisplay.text = "0" + LapTimeManager.SecondCount + ".";
+                }
+                else
+                {
+                    SecondDisplay.text = "" + LapTimeManager.SecondCount + ".";
+                }
+
+                // Actualiza el texto de los minutos con formato adecuado
+                if (LapTimeManager.MinuteCount <= 9)
+                {
+                    MinuteDisplay.text = "0" + LapTimeManager.MinuteCount + ":";
+                }
+                else
+                {
+                    MinuteDisplay.text = "" + LapTimeManager.MinuteCount + ":";
+                }
+
+                // Actualiza el texto de los milisegundos
+                MilliDisplay.text = LapTimeManager.MilliCount.ToString("F0");
             }
 
-            // Actualiza el texto de los minutos con formato adecuado
-            if (LapTimeManager.MinuteCount <= 9)
-            {
-                MinuteDisplay.text = "0" + LapTimeManager.MinuteCount + ":";
-            }
-            else
-            {
-                MinuteDisplay.text = "" + LapTimeManager.MinuteCount + ":";
-            }
+            // Guarda los tiempos usando PlayerPrefs
+            PlayerPrefs.SetInt(MinSave, LapTimeManager.MinuteCount);
+            PlayerPrefs.SetInt(SecSave, LapTimeManager.SecondCount);
+            PlayerPrefs.SetFloat(MilliSave, LapTimeManager.MilliCount);
+            PlayerPrefs.SetFloat(RawTimeLoad, LapTimeManager.RawTime);
 
-            // Actualiza el texto de los milisegundos
-            MilliDisplay.text = LapTimeManager.MilliCount.ToString("F0");
+            // Reinicia los contadores de tiempo
+            LapTimeManager.MinuteCount = 0;
+            LapTimeManager.SecondCount = 0;
+            LapTimeManager.MilliCount = 0;
+            LapTimeManager.RawTime = 0;
+
+            // Actualiza el contador de vueltas
+            LapCounter.text = LapsDone.ToString();
+
+            // Cambia el estado de los triggers
+            HalftLapTrig.SetActive(true);
+            LapCompleteTrig.SetActive(false);
         }
-        // Guarda los tiempos usando PlayerPrefs
-        PlayerPrefs.SetInt("MinSave", LapTimeManager.MinuteCount);
-        PlayerPrefs.SetInt("SecSave", LapTimeManager.SecondCount);
-        PlayerPrefs.SetFloat("MilliSave", LapTimeManager.MilliCount);
-        PlayerPrefs.SetFloat("RawTime", LapTimeManager.RawTime);
-
-        // Reinicia los contadores de tiempo
-        LapTimeManager.MinuteCount = 0;
-        LapTimeManager.SecondCount = 0;
-        LapTimeManager.MilliCount = 0;
-        LapTimeManager.RawTime = 0;
-
-        // Actualiza el contador de vueltas
-        LapCounter.text = LapsDone.ToString();
-
-        // Cambia el estado de los triggers
-        HalftLapTrig.SetActive(true);
-        LapCompleteTrig.SetActive(false);
     }
 }

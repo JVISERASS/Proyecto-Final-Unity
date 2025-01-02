@@ -11,6 +11,7 @@ public class ModeSelect : MonoBehaviour
     public void ScoreMode()
     {
         RaceMode = 1;
+        ModeTime.isTimeMode = false; // asegurarse
         TrackSelect.SetActive(true);
 
     }
@@ -24,6 +25,7 @@ public class ModeSelect : MonoBehaviour
     public void TheRaceMode()
     {
         RaceMode = 0;
+        ModeTime.isTimeMode = false; // asegurarse
         TrackSelect.SetActive(true);
 
     }

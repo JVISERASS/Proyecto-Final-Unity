@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -12,33 +13,36 @@ public class RaceFinish : MonoBehaviour
 
     public GameObject CompleteTrig;
 
-    private void OnTriggerEnter()
+    private void OnTriggerEnter(Collider collision)
 
     {
-        if (ModeTime.isTimeMode == true)
-        {
-            // we are on Race TIME mode
-        }
-        else
-        {
-            // Stop and freeze the main car
-            StopAndFreezeCar(Car);
-
-            // Deactivate all dream cars
-            foreach (GameObject dreamCar in DreamCars)
+       
+        if (collision.gameObject.tag == "Untagged") {
+            if (ModeTime.isTimeMode == true)
             {
-                dreamCar.SetActive(false);
+                // we are on Race TIME mode
             }
+            else
+            {
+                // Stop and freeze the main car
+                StopAndFreezeCar(Car);
 
-            // Switch cameras
-            FinishCam.SetActive(true);
-            MainCamera.SetActive(false);
+                // Deactivate all dream cars
+                foreach (GameObject dreamCar in DreamCars)
+                {
+                    dreamCar.SetActive(false);
+                }
 
-            // Optionally disable level music
-            // LevelMusic.SetActive(false);
+                // Switch cameras
+                FinishCam.SetActive(true);
+                MainCamera.SetActive(false);
 
-            // Disable the complete trigger
-            CompleteTrig.SetActive(false);
+                // Optionally disable level music
+                // LevelMusic.SetActive(false);
+
+                // Disable the complete trigger
+                CompleteTrig.SetActive(false);
+            }
         }
     }
 

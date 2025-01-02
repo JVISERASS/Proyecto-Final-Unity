@@ -12,11 +12,15 @@ public class LoadLapTime : MonoBehaviour
     public TextMeshProUGUI SecDisplay;
     public TextMeshProUGUI MilliDisplay;
 
+    public string MinSave;
+    public string SecSave;
+    public string MilliSave;
+
     void Start()
     {
-        MinCount = PlayerPrefs.GetInt("MinSave");
-        SecCount = PlayerPrefs.GetInt("SecSave");
-        MilliCount = PlayerPrefs.GetFloat("MilliSave");
+        MinCount = PlayerPrefs.GetInt(MinSave);
+        SecCount = PlayerPrefs.GetInt(SecSave);
+        MilliCount = PlayerPrefs.GetFloat(MilliSave);
 
         MinDisplay.text = MinCount.ToString("00") + ":";
         SecDisplay.text = SecCount.ToString("00") + ".";
